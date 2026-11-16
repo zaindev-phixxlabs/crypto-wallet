@@ -31,4 +31,6 @@ This project focuses on basic crypto wallet functionality, including wallet crea
 
 ## Project Document
 
-[📄 Open Project Document](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fzaindev-phixxlabs%2Fcrypto-wallet%2Fmain%2FAndroid%2520Application%2520Project.docx)
+<a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fzaindev-phixxlabs%2Fcrypto-wallet%2Fmain%2FAndroid%2520Application%2520Project.docx" target="_blank" rel="noopener noreferrer">
+  📄 Open Project Document
+</a>
